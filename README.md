@@ -1,9 +1,12 @@
-
 # 🎓 Student Performance AI
 
 An interactive Machine Learning application that predicts student performance based on study hours, attendance, and previous marks.
 
-## 🚀 Features
+## 🚀 Live Demo
+
+**[👉 Click Here to Open Student Performance AI](https://student-performance-ai-manish.streamlit.app/)**
+
+## ✨ Features
 
 - Student performance prediction
 - Interactive analytics dashboard
